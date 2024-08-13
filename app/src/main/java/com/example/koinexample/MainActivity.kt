@@ -16,7 +16,8 @@ import org.koin.android.ext.android.inject
 import org.koin.android.scope.AndroidScopeComponent
 import org.koin.androidx.scope.activityScope
 import org.koin.androidx.viewmodel.ext.android.getViewModel
-import org.koin.core.qualifier.named
+import org.koin.core.qualifie
+r.named
 import org.koin.core.scope.Scope
 
 class MainActivity : ComponentActivity(),AndroidScopeComponent {
