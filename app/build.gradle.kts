@@ -79,6 +79,7 @@ dependencies {
 
     implementation(libs.androidx.lifecycle.viewmodel.compose)
 
+    //Ktor depdendencies
     implementation(libs.ktor.client.android)
     implementation(libs.ktor.client.serialization)
     implementation(libs.kotlinx.serialization.json)
